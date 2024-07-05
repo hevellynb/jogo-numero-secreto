@@ -56,7 +56,6 @@ function limparCampo(){
 }
 
 function reiniciarJogo(){
-    // isso e legal
     numeroSecreto = gerarNumeroAleatorio();
     limparCampo();
     tentativas = 0;
